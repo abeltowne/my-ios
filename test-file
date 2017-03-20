@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 add some text
 这些数据都是客户端新增加的
+=======
+#这个test-file没什么用，就是用来测试本地数据下载git-clone的。
+这个链接对熟练git的使用非常有好处。http://blog.csdn.net/u012575819/article/details/50553501内容被改变
+>>>>>>> 685be3e3c224d9a252dec2bab5fc715dea97cd36
